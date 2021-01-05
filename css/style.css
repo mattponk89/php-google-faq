@@ -50,6 +50,18 @@ header{
     border-bottom: 3px solid #3367d6;
     color: #3367d6;
 }
+.main_container{
+    max-width: 1000px;
+    margin: auto;
+}
+.main_container h2{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.main_container p{
+    margin-bottom: 20px;
+    font-size: 15px;
+}
 /* classi flex */
 .d-flex{
   display: flex;
